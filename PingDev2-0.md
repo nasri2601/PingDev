@@ -3,7 +3,7 @@
 # Membre de l'équipe :
 
 * Chef de projet :sleeping: : Mickaël
-* Reste de la Team :muscle: : Anaïs , Slim , François ,Antoine .
+* Reste de la Team :muscle: : Anaïs , Slim , François , Antoine .
 
 Nous avons retravailler cette semaine principalement sur les règles du jeu pour partir sur une bonne bases pour tout le monde , nous avons donc travaillez sur les règles , essentiellement . Sur la mise en formes des cartes.
 
