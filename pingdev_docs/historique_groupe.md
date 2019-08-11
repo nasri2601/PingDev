@@ -17,6 +17,7 @@
 
 **_Tâches toujours en cours :_**
 - Conceptualisation 3D de la "roulette"
+- Conceptualisation 2D des cartes
 
 **_Proposition pour le prochain groupe :_**
 - Voir si il y a une possibilité d'inventé plusieurs modes de jeu
