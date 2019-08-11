@@ -4,7 +4,15 @@
 
 # Qu'est-ce que PingDev ?
 
-**_Work in progress_**
+Créer lors de la formation développeur Web / Web mobile par Yes We Web à Lesquin.
+
+PingDev est un jeu de société ayant pour thème le développement et l'informatique.
+
+Plusieurs thèmes sont donc proposés comme par exemple : HTML / CSS / GIT / PHP / SQL / Javascript.
+
+Le but du jeu est de ne pas se faire éliminer et d'arriver en premier à 10 points.
+
+Il s'agit d'un jeu de questions-réponses à but lucratif.
 
 ------------------------
 
