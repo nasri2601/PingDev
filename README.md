@@ -1,10 +1,27 @@
 # Jeu de plateau PingDev
 
+![PingDev Logo](https://imgur.com/Zu3tVXe.png)
+
+# Qu'est-ce que PingDev ?
+
+**_Work in progress_**
+
 ------------------------
 
-# Règles du jeu
+## Règles du jeu
 
-## Déroulement d'une manche
+1. De 2 joueurs à 6 joueurs.
+2. Une personne tourne la roue, tire une carte et pose la question à tout les participants.
+3. Il faut lever la main et crié "PING !!!" afin de pouvoir répondre.
+4. La rotation de jeu se déroule dans le sens horaire des aiguilels d'"une montre.
+5. Chaque joueurs dispose de 3 vies maximum.
+6. Une cartouche = 1 point de vie en moins.
+7. 0 point de vie = élimination.
+8. Tout tricheur démasqué est déclaré vaincu.
+9. Le premier joueur à 10 points ou étant le dernier en lice est déclaré "Master Ping" et gagne la partie.
+10. Jouons et amusons nous tous ensemble !
+
+### Déroulement d'une manche
 
 **Chacun pour soi**
 
@@ -34,6 +51,6 @@ Le premier joueurs ayant obtenu 10 points ou étant le dernier en lice se voit d
 
 **Par équipe**
 
-Work in progress
+**_Work in progress_**
 
 ------------------------
