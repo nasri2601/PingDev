@@ -4,12 +4,25 @@
 
 **_Membre de l'équipe :_**
 
-- Chef de projet : Dylan
-- Team : Anthony, Yassine, Steven, Donovan
+- Chef de projet : Dylan (Repo/Design)
+- Team : Anthony(PHP/SQL), Yassine(Git), Steven(JavaScript), Donovan(HTML/CSS)
 
 **_Tâches effectuée :_**
 
-- _En cours_
+- Restructuration de l'arborescence du Repository
+- Restructuration et remsie en forme des règles ainsi que le déroulement d'une manche et synthétisation dans le README.md
+- Ajout d'un concept de "roulette"
+- Création d'un nouveau logo "unique"
+- Recherche de question pour les langages utilisé dans le jeu (HTML/CSS/SQL/JavaScript/Git/PHP)
+
+**_Tâches toujours en cours :_**
+- Conceptualisation 3D de la "roulette"
+- Conceptualisation 2D des cartes
+
+**_Proposition pour le prochain groupe :_**
+- Voir si il y a une possibilité d'inventé plusieurs modes de jeu
+- S'intéresser sur d'autres styles de question pour éviter seulement les Questions/Réponses basique
+- Continuer à synthétiser et améliorer le README.md
 
 ---------------------------------------
 
@@ -40,7 +53,7 @@ Si question n'hésitez pas à venir nous voir :smile:
 
 # Début du projet
 
-*afin de pour faciliter le passage du jeu aux autres personnes nous transmettons :*
+*Afin de faciliter le passage du jeu aux autres personnes nous transmettons :*
 
 - Le logo du jeu
 - Les maquettes des cartes à imprimer (et à personnaliser selon vos questions)
