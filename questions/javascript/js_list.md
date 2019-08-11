@@ -111,3 +111,27 @@
 2. True
 3. False
    - Réponse : _False, car le **String** est vide_
+
+- Dans cette opération, donnez moi, le ou les **opérateurs**, **opérands** : "7" + 4 - "toto"
+
+  - Réponse : _Les opérateurs sont : **+ -** et les opérands sont **"7" 4 "toto"**_
+
+- Complétez cette definition : Un **\_ est **unary** si il possède \_\_\_**.
+
+  - Réponse : _Un **opérateur** est unary si il possède **un seul operand**_
+
+- Cette opération est elle un **unary**, si oui de quel type d'unary s'agit-il ? `let x = 7; x = -x; alert(x);`
+
+      - Réponse : _Cette opération est bien un unary car elle ne possède qu'un seul operand, et elle est de type négatif ou soustractive (-)_
+
+- Cette opération est elle un **unary**, si ce n'est pas le cas de quel type s'agit-il ? `let x = 7 y = 9; alert(x+y);`
+
+  - Réponse : _Non il s'agit en revanche d'un binary positif car celui ci possède deux operands et le signe +_
+
+- Vrai ou Faux : **+x** ou **-x** sont des raccourcis à **Number(x)** ?
+
+  - Réponse : _Vrai, ce sont tout deux unary qui convertissent en nombre la valeur d'une variable_
+
+- Voici un morceau de code : `let apples = "2"; let oranges = "3"; alert( apples + oranges );` Qui nous retourne comme résultat **23**, pourquoi ne nous retourne t'il ça et comment pouvons nous avoir pour résulat **5** ?
+
+  - Réponse : \_Il nous retourne **23** car il y'a eu concatenation de deux **String** avec l'opérateur **+**. Pour en revanche avoir comme résultat **5**, nous devrions convertir ces **String** en Number de la sorte `.... alert(+apples + +oranges);`
