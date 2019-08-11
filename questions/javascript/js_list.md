@@ -36,7 +36,7 @@
 3. Le snakeCase
    - Réponse : _Le **camelCase**_
 
-- Vrai ou faux : Les symboles "\$" et "\_", peuvent être utilisés pour déclarer un nom de variable ?
+- Vrai ou faux : Les symboles "\$" et "_", peuvent être utilisés pour déclarer un nom de variable ?
 
   - Réponse : _Vrai_
 
@@ -83,7 +83,7 @@
 
 * Comment sont appellés tout les types de données n'étant pas de **type objet ou symbole** ?
 
-  - Réponse : _Ils sont appellés primitive\*_
+  - Réponse : _Ils sont appellés primitive_
 
 * Que retournera ce code : `typeof alert` ?
 
@@ -95,7 +95,7 @@
 
 - Vrai ou faux : `alert("6" / "3")` nous retournera comme résultat "2" ?
 
-  - Réponse : _Faux, les opérateur - , \* , /, % convertissent les string en Number_
+  - Réponse : _Faux, les opérateur - , * , /, % convertissent les string en Number_
 
 - Que nous retournera cette fonction `alert (Numer("toto"));` ?
 
@@ -116,7 +116,7 @@
 
   - Réponse : _Les opérateurs sont : **+ -** et les opérands sont **"7" 4 "toto"**_
 
-- Complétez cette definition : Un **\_ est **unary** si il possède \_\_\_**.
+- Complétez cette definition : Un _ est **unary** si il possède ___.
 
   - Réponse : _Un **opérateur** est unary si il possède **un seul operand**_
 
@@ -134,4 +134,34 @@
 
 - Voici un morceau de code : `let apples = "2"; let oranges = "3"; alert( apples + oranges );` Qui nous retourne comme résultat **23**, pourquoi ne nous retourne t'il ça et comment pouvons nous avoir pour résulat **5** ?
 
-  - Réponse : \_Il nous retourne **23** car il y'a eu concatenation de deux **String** avec l'opérateur **+**. Pour en revanche avoir comme résultat **5**, nous devrions convertir ces **String** en Number de la sorte `.... alert(+apples + +oranges);`
+  - Réponse : _Il nous retourne **23** car il y'a eu concatenation de deux **String** avec l'opérateur **+**. Pour en revanche avoir comme résultat **5**, nous devrions convertir ces **String** en Number de la sorte `.... alert(+apples + +oranges);`_
+
+- À quoi pouvons nous comparer la **précendence** de JavaScript ?
+
+  - Réponse : _Nous pouvons la comparer à la **spécification** en CSS_
+
+- Qu'allons nous avoir comme résultat à cette opération : `alert("2" + "7"(10 / 5))`
+
+1. "214"
+2. NaN
+3. "2714"
+
+   - Réponse : _"214"_
+
+- Vrai ou Faux : L'opérateur **=** à une précedence supérieur à la **()**
+
+  - Réponse : _Faux, l'opérateur = à une précédence de **3** tandis que la () une précédence de **20**_
+
+- Le modulo nous retourne :
+
+1. Le résultat d'une division euclidienne
+2. Null
+3. Le reste d'une division euclidienne
+
+   - Réponse : _Le reste d'une division euclidienne_
+
+- Quel est le résulat de 10 % 3 ?
+
+  - Réponse : _1, 10 / 3 = 3 + **1**_
+
+-
