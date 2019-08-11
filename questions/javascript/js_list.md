@@ -88,3 +88,26 @@
 * Que retournera ce code : `typeof alert` ?
 
   - Réponse : _Ce code nous retournera fonction, le typeof operator nous retourne le type de données d'une variable_
+
+- À quoi sert `String(value)` ?
+
+  - Réponse : _Il convertit la valeur d'une variable en type **String**_
+
+- Vrai ou faux : `alert("6" / "3")` nous retournera comme résultat "2" ?
+
+  - Réponse : _Faux, les opérateur - , \* , /, % convertissent les string en Number_
+
+- Que nous retournera cette fonction `alert (Numer("toto"));` ?
+
+  -Réponse : _Elle nous retourner la valeur NaN car "toto" ne peut être convertit en nombre_
+
+- Qu'est ce que la **concatenation** ?
+
+  - Réponse : _La concaténation, ou la fusion est le résultat d'une fusion de deux **String** ainsi que l'opérateur **+**_
+
+- Sachant que **ToBoolean** convertie la valeur d'une variable en boolean, que nous retrounerait cette fonction `alert( Boolean("") );` ?
+
+1. 1
+2. True
+3. False
+   - Réponse : _False, car le **String** est vide_
