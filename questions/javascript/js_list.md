@@ -51,4 +51,40 @@
   - Réponse : _Le 1 devant age. Un nom de variable ne peut pas commencer par un digite_.
 
 - Vrai ou faux : C'est deux variables sont les mêmes : yesWEweb et yEsWeWeb ?
+
   - Réponse : _Faux. Le code est sensible à la casse en JavaScript_.
+
+- Combien de types de **types de données** existent-ils en JavaScript ?
+
+1. 10
+2. 4
+3. 7
+   - Réponse : _Il existe 7 types de données en JavaScript_
+
+- Que veux dire **l'acronyme NaN** ?
+
+  - Réponse : _Il signifie Not a Number_
+
+- Quels sont **les différents types de quotes** ?
+
+  - Réponse : _Le double quote ", le simple quote ', et le backticks_
+
+- Vrai ou faux : **True** est le résulat d'un type boolean?
+
+  - Réponse : _Vrai, le type boolean retourne deux valeurs, True et False_
+
+- À quoi correspond **Null** ?
+
+  - Réponse : _Null correspond à une valeur qui représente soit une valeur vide, ou une valeur inconnue_
+
+- A quoi peut bien servir **l'undefined value** ?
+
+  - Réponse : _En JavaScript nous nous servons de l'undefined value, afin de savoir si une variable a été déclarer_
+
+* Comment sont appellés tout les types de données n'étant pas de **type objet ou symbole** ?
+
+  - Réponse : _Ils sont appellés primitive\*_
+
+* Que retournera ce code : `typeof alert` ?
+
+  - Réponse : _Ce code nous retournera fonction, le typeof operator nous retourne le type de données d'une variable_
