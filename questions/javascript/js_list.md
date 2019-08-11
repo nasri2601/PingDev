@@ -164,4 +164,32 @@
 
   - Réponse : _1, 10 / 3 = 3 + **1**_
 
--
+- Qu'est ce que **++** ou **--** ?
+
+    - Réponse : _Il s'agit de l'incrémentation (+1) et de la décrémentation (-1)_
+
+- Ceci : `alert (++x)` est ce la version **postfixe** ou **prefixe**  et que retourne t'elle ?
+
+    - Réponse : _Ceci est la version prefixe, elle retourne la nouvelle valeur_
+
+- Quel résulat va nous être retourné avec ce code ` let x = 1; alert(x++);` ?
+
+1. 0
+2. 1
+3. 2
+    - Réponse : _1 est le résultat qui va nous être retourner car x++, nous affiche d'abord x puis ensuite incrémente_
+
+- Quel résulat va nous être retourné par le deuxième alert() avec ce code ` let x = 1; alert(x++); alert(++x)` ?
+
+1. 1
+2. 3
+3. 2
+    - Réponse : _3 car il y'a eu deux incrémentations_
+
+- Quel serait le raccourci pour dire ` let n = 5; n = n * 5;`
+
+    - Réponse : _Le raccourci pouvant nous dire n = n * 5 est le suivant : **n*=5**_
+
+- Vrai ou faux : ce code va nous retourner 10 : `let n = 2; n+=4; alert(n+=4);`
+
+    - Réponse : _Vrai, car nous ajoutons 4 à n donc 2 + 4 = 6 puis nous rajoutons de nouveau à n 4 donc 6 + 4 = 10_
