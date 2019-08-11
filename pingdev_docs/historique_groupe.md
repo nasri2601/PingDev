@@ -22,6 +22,7 @@
 **_Proposition pour le prochain groupe :_**
 - Voir si il y a une possibilité d'inventé plusieurs modes de jeu
 - S'intéresser sur d'autres styles de question pour éviter seulement les Questions/Réponses basique
+- Continuer à synthétiser et améliorer le README.md
 
 ---------------------------------------
 
