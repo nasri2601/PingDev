@@ -9,11 +9,14 @@
 
 **_Tâches effectuée :_**
 
+  recolte des questions des différents groupes, afin de les trier et de les incorporer au jeu.
+
 
 **_Tâches toujours en cours :_**
+  récolte des questions
 
 **_Proposition pour le prochain groupe :_**
-
+  Voir les différents groupes pour recolter toutes les informations nécessaire à la poursuite du jeu.
 ---------------------------------------
 
 
