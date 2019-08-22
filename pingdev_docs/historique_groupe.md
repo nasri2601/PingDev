@@ -16,6 +16,8 @@
   récolte des questions
 
 **_Proposition pour le prochain groupe :_**
+  
+  
   Voir les différents groupes pour recolter toutes les informations nécessaire à la poursuite du jeu.
 ---------------------------------------
 
