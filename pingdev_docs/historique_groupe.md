@@ -1,5 +1,25 @@
 # Période actuelle
 
+## _Semaine du 19 août au 23 août 2019_
+
+**_Membre de l'équipe :_**
+
+- Chef de projet : ?
+- Team : Mohamed, Ahmad, Bafodé, Slim, Sami.
+
+**_Tâches effectuée :_**
+
+
+**_Tâches toujours en cours :_**
+
+**_Proposition pour le prochain groupe :_**
+
+---------------------------------------
+
+
+
+# Période actuelle
+
 ## _Semaine du 5 août au 11 août 2019_
 
 **_Membre de l'équipe :_**
